@@ -20,4 +20,6 @@ You need:
 No passive electonics components needed. Could be assembled on breadboard.
 On first setup, it's advised to set monitor 1 to A or B (it should be always active). This will avoid exhausting EEPROM in continuous search for at least one active monitor.
 
-At the current momen the code hasn't been tested on actual SmartScope. Would be thankful for feedback.
+At the current moment:
+- The device only sends the TCP packets and does not receive anything from monitors.
+- The code hasn't been tested on actual SmartScope. Would be thankful for feedback.
