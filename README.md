@@ -1,6 +1,4 @@
 # SmartScope-Nano
-DIY Arduino BlackMagic SmartScope scopes switcher
-
 I've made a tiny Blackmagic SmartScope switcher which allows switching scopes without using PC.
 The total cost of components is around $14.
 
