@@ -2,7 +2,7 @@
 I've made a tiny Blackmagic SmartScope switcher which allows switching scopes without using PC.
 The total cost of components is around $14.
 
-![Assembled on breadboard](https://raw.githubusercontent.com/BakaTopcat/SmartScope-Nano/main/20220428_152526.jpg)
+![Assembled on breadboard](https://raw.githubusercontent.com/BakaTopcat/SmartScope-Nano/main/smartscope-nano.jpg)
 
 Features:
 - EEPROM remembers all the settings;
