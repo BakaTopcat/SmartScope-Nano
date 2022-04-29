@@ -22,4 +22,4 @@ On first setup, it's advised to set monitor 1 to A or B (it should be always act
 
 At the current moment:
 - The device only sends the TCP packets and does not receive anything from monitors.
-- The code hasn't been tested on actual SmartScope. Would be thankful for feedback. Join the [discussions](https://github.com/BakaTopcat/SmartScope-Nano/discussions)
+- The code hasn't been tested on actual SmartScope. Would be thankful for feedback[feedback](https://github.com/BakaTopcat/SmartScope-Nano/discussions).
